@@ -9,3 +9,11 @@ const recipeSchema = new Schema({
 });
 
 export const RecipeModel =model('Recipe', recipeSchema, 'recipes');
+
+
+
+
+
+
+
+
